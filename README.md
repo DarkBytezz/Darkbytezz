@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manan 👋</h1>
+<h1 align="center">Hi, I'm Manan Verma...</h1>
 
 <p align="center">
   🚀 First-year CSE (AIML) Student @ [Your College Name] <br>
