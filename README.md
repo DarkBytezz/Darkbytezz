@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Manan Verma...</h1>
 
 <p align="center">
-  🚀 First-year CSE (AIML) Student @ [Your College Name] <br>
+  🚀 First-year CSE (AIML) Student @ [Chandigarh University] <br>
   🔍 Focused on DSA, C++, and building cool AI/Web projects <br>
-  🎸 Guitarist • Memer • Code-nocturnal™ <br>
-  📈 Grinding for a top CGPA, big-time internship, and elite placement <br>
+  📈 Working for a top CGPA, big-time internship, and elite placement <br>
 </p>
 
 ---
