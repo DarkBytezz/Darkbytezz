@@ -3,7 +3,7 @@
 <p align="center">
   🚀 First-year CSE (AIML) Student @ [Chandigarh University] <br>
   🔍 Focused on DSA, C++, and building cool AI/Web projects <br>
-  📈 Working for a top CGPA, big-time internship, and elite placement <br>
+  📈 Driven by curiosity — I build to learn, and learn to build better tech <br>
 </p>
 
 ---
