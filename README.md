@@ -41,9 +41,8 @@
 ---
 
 ### 🤝 Let's Connect
-- 📫 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [Your Website](https://yourwebsite.com)
+- 📫 Email: [vermamanan05@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/manan-verma-581919257/]
 
 ---
 
