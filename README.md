@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manan Verma...</h1>
 
 <p align="center">
-  🚀 First-year CSE (AIML) Student @ [Chandigarh University] <br>
+  🚀 Second-year CSE (AIML) Student @ [Chandigarh University] <br>
   🔍 Focused on DSA, C++, and building cool AI/Web projects <br>
   📈 Driven by curiosity — I build to learn, and learn to build better tech <br>
 </p>
