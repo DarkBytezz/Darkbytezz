@@ -46,7 +46,7 @@ currently:
   - Exploring ML systems engineering
 ```
 
-- 🏆 Ranked #13 at Teckathon 3.0 as a first-year student  
+- 🏆 Shortlisted for SIH 2024 as a first-year student  
 - 🧠 Building projects around LLMs, AI systems, and intelligent workflows  
 - ⚔️ Focused on problem solving, AI engineering, and scalable systems  
 - 🚀 Interested in AI/ML internships, research, and impactful engineering  
@@ -79,6 +79,7 @@ currently:
 > AI-powered Chandigarh University campus assistant
 
 - 🤖 Hybrid AI pipeline using CSV + YAML + RAG + LLMs
+- 🎤 Completely voice-navigable web pages
 - 🎤 Speech-enabled with ASR and TTS support
 - 🧠 Handles Hinglish queries and typo correction
 - 🔒 Runs fully offline using local GGUF models
